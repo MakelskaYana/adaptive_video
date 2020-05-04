@@ -139,7 +139,7 @@ body {
 }
 
 .main-screen__bg {
-  background: url("../../img/bg_save.png");
+  background: url("../img/bg_save.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -168,6 +168,9 @@ body {
   box-shadow: 0 10px 20px rgba(209, 209, 209, 0.3);
   border-radius: 10px;
   padding: 54px 0 0 0;
+}
+.main-screen__advantages {
+  padding-bottom: 90px;
 }
 .main-screen__container {
   max-width: 667px;
@@ -326,7 +329,7 @@ body {
 }
 .advantages__column--img {
   flex: 0 1 51.3157894737%;
-  background: url("../../img/bg_video.png");
+  background: url("../img/bg_video.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
